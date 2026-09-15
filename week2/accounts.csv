@@ -1,0 +1,9 @@
+account_number,owner,account_type,initial_balance,monthly_deposits,monthly_withdrawals
+BA1001,Aarav Sharma,Savings,2500.00,1200.00,450.00
+BA1002,Diya Patel,Checking,1800.00,900.00,1100.00
+BA1003,Rohan Mehta,Savings,4200.00,1500.00,600.00
+BA1004,Anaya Singh,Checking,950.00,700.00,850.00
+BA1005,Vivaan Gupta,Savings,6800.00,2000.00,900.00
+BA1006,Ishita Rao,Checking,3100.00,1100.00,1400.00
+BA1007,Arjun Nair,Savings,1500.00,800.00,300.00
+BA1008,Myra Shah,Checking,2700.00,1000.00,1250.00
